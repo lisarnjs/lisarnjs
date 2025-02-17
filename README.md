@@ -1,6 +1,13 @@
 <div align="center">
-<h3>👋 Hi there! I'm Frontend Developer.</h3>
+<h3>안녕하세요👋 프론트엔드 개발자 권은서입니다.</h3>
 <hr />
+<p>
+  React와 Next.js를 사용하여 다양한 서비스를 만들고, 단순히 기술적인 고민을 넘어서<br/>
+  기획, 세일즈, 마케팅 등 비개발 영역까지 고민하며 product 자체를 고민하는 사람이 되려고 노력하고 있어요.
+  <br/>
+  <br/>
+  그래도 개발자인지라, 기술적인 지식을 나누고 토론하는 것을 참 좋아합니다.
+</p>
 <h3>🌱 My Skills</h3>
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp
